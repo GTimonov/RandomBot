@@ -1,0 +1,25 @@
+{
+  "name": "randombot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js ",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GTimonov/RandomBot.git"
+  },
+  "author": "GT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GTimonov/RandomBot/issues"
+  },
+  "homepage": "https://github.com/GTimonov/RandomBot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.2",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
